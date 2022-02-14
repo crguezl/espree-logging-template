@@ -1,5 +1,6 @@
 ---
-url: https://ull-esit-gradoii-pl.github.io/practicas/esprima-logging
+descripcion: https://ull-esit-gradoii-pl.github.io/practicas/esprima-logging
+alumno: "Nombre Apellidos  AluXXX"
 ---
 
 # [Práctica Espree Logging](https://ull-esit-gradoii-pl.github.io/practicas/esprima-logging)
